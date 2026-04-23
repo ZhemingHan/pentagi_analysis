@@ -25,6 +25,11 @@ data/*
 .bak/*
 !.gitkeep
 .claude/
+.codex/
+
+# Local PentAGI test secrets and raw run artifacts
+analysis/codex/pentagi_qwen_online_flow_test/credentials.env
+analysis/codex/pentagi_qwen_online_flow_test/runs/
 
 # IDE
 .idea/
@@ -34,4 +39,3 @@ data/*
 
 # OS
 Thumbs.db
-
