@@ -30,6 +30,7 @@ data/*
 # Local PentAGI test secrets and raw run artifacts
 analysis/codex/pentagi_qwen_online_flow_test/credentials.env
 analysis/codex/pentagi_qwen_online_flow_test/runs/
+analysis/codex/phase1_provider_agent_tests/runs/
 
 # IDE
 .idea/
